@@ -46,6 +46,8 @@ Soft voting ensemble of:
 3. unzip zip compressed files
 4. run the app.py file.
 5. it will create two txt file
+
+
 a. featched.txt (contain webscraped news)
 
 b. classified.txt (contain the final classified news)
